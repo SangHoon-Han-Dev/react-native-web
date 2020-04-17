@@ -85,7 +85,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KimWoogie/react-native-web-woogie.git"
+    "url": "https://github.com/KimWoogie/react-native-web-woogie.git"
   },
   "rn-docs": {
     "title": "Webview",
