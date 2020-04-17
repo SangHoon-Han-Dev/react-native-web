@@ -1,0 +1,23 @@
+{
+  "name": "react-native-webview-woogie",
+  "version": "1.0.0",
+  "description": "do not use androidx. react-native-web 7.0.1 forked version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimWoogie/react-native-web-woogie.git"
+  },
+  "keywords": [
+    "androidx",
+    "removed"
+  ],
+  "author": "woogie.kim <jwoogie@ibizsoftware.net> (https://www,ibizsoftware.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KimWoogie/react-native-web-woogie/issues"
+  },
+  "homepage": "https://github.com/KimWoogie/react-native-web-woogie#readme"
+}
